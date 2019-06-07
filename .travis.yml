@@ -8,5 +8,5 @@ compiler:
     - clang 
 
 script: 
-    - make Stak 
-    - make RBtree
+    - cmake Stak 
+    - cmake RBtree
